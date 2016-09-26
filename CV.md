@@ -1,6 +1,6 @@
 Georgios Mantas CV
 ====================
-_Personal details: Hart van Brabantlaan,Talent 5038 LZ, Tilburg, Nethelands, email:gmantas93@gmail.com_
+_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, Nethelands, email:gmantas93@gmail.com_
 ---------------------
 ####EDUCATION
 09/2011 – 06/2015 **Athens University of Economics and Business (AUEB)**, Athens, Greece
@@ -43,5 +43,6 @@ economy of capitalism”_ (supervisor Associate Professor Ms. Andriana Vlachou)
 ####LANGUAGES
 * **English** (fluent), **Greek** (native)
 
-
+####INTERESTS AND HOBBIES
+Literature,Stock exchanges and Investments, Traveling, Gymnastics and Cycling, Football, Collection and restoration of old / retro objects
 
