@@ -1,4 +1,4 @@
-![Screenshot]()
+![GitHub Logo]()
 
 Georgios Mantas CV
 ====================
@@ -61,4 +61,4 @@ ___
 ####INTERESTS AND HOBBIES 
 ___
 Literature,Stock exchanges and Investments, Traveling, Gymnastics and Cycling, Football, Collection and restoration of old / retro objects
-}
+
