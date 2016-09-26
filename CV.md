@@ -1,4 +1,4 @@
-![GitHub Logo]()
+![CV image](assignments/ΜΑΝΤΑΣ 4χ6.jpg)
 
 Georgios Mantas CV
 ====================
