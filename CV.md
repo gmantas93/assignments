@@ -1,9 +1,16 @@
 Georgios Mantas CV
 ====================
-_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, Nethelands, email:gmantas93@gmail.com_
+_Personal details: Hart van Brabantlaan street, Talent Square, 5038 LZ, Tilburg, Nethelands,phone number: +31 0614528640, email:gmantas93@gmail.com_
 ---------------------
 ####EDUCATION
 ___
+08/2016 – present **Tilburg University**, Tilburg, Netherlands
+
+* Msc in Economics (1-year degree; 60 ECTS)
+
+  * MSc candidate in Economics
+  * Concentration: Public Policy
+
 09/2011 – 06/2015 **Athens University of Economics and Business (AUEB)**, Athens, Greece
 
 * BSc in Economics (4-year degree; 240 ECTS)
@@ -31,7 +38,7 @@ economy of capitalism”_ (supervisor Associate Professor Ms. Andriana Vlachou)
 * Assistance to high school students on the subjects of “Principles of Economic Theory” and “Principles of Business Administration”
 * Providing counseling services for the nation – wide examinations that determine the entrance in Greek universities
 
-####HONORS &AWARDS
+####HONORS & AWARDS
 ___
 **Scholarship**, EFG Eurobank, December 2011, Scholarship for the highest grade in 6th High School of Egaleo that achieved at the nation-wide examinations.
 
@@ -52,4 +59,4 @@ ___
 ####INTERESTS AND HOBBIES 
 ___
 Literature,Stock exchanges and Investments, Traveling, Gymnastics and Cycling, Football, Collection and restoration of old / retro objects
-
+}
