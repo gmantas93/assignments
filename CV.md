@@ -1,5 +1,4 @@
-![CV image] (mantas.jpg= 25x25)
-
+![CV image] (mantas.jpg)
 Georgios Mantas CV
 ====================
 _Personal details: Hart van Brabantlaan street, Talent Square, 5038 LZ, Tilburg, Nethelands,phone number: +31 0614528640, email:gmantas93@gmail.com_
