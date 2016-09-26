@@ -1,4 +1,4 @@
-![CV image](assignments/ΜΑΝΤΑΣ 4χ6.jpg)
+(/assignments/mantas.jpg)
 
 Georgios Mantas CV
 ====================
