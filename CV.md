@@ -62,5 +62,5 @@ ___
 * Collection and restoration of old / retro objects
 * Reading literature 
 * Exploit opportunities for traveling  
-* Sport recreational (previous experiences from fencing, football and archery teams)  
+* Recreational sports especially gymnastics also previous experiences from fencing, football and archery teams 
 
