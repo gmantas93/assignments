@@ -57,7 +57,10 @@ ___
 ___
 * **English** (fluent), **Greek** (native)
 
-####INTERESTS AND HOBBIES 
+####INTERESTS & HOBBIES 
 ___
-Literature,Stock exchanges and Investments, Traveling, Gymnastics and Cycling, Football, Collection and restoration of old / retro objects
+* Collection and restoration of old / retro objects
+* Reading literature 
+* Exploit opportunities for traveling  
+* Sport recreational (previous experiences from fencing, football and archery teams)  
 
