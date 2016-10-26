@@ -6,7 +6,7 @@ Figure 1:
 ___
 **Women’s Median Annual Earnings as a Percentage of Men’s Median Annual Earnings for Full-Time, Year-Round Workers, 1960-2015**
 
-<img src="https://github.com/gmantas93/assignments/blob/master/2.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/2.PNG" width="820"/>
 
 _Source: AAUW analysis of data from Proctor et al, U.S. Census Bureau, Income and Poverty in the United States 2015_
 
