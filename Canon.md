@@ -19,9 +19,9 @@ The hitherto economic literature, in general, has identified two main reasons wh
 The economic literature takes into consideration diligently all these factors that could possibly affect the gender wage gap and have concluded that indeed occupational segregation constitutes a major contributor to that specific gap. Moreover, a careful look at the occupational segregation and gender earnings ratio implies that these two trends have an inverse correlation. The following graph is intuitive to fathom that kind of relation.
 
 Figure 2:
-Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012
+**Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 eikona 2
-Source: Hegewisch A. and Hartmann H. 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, Institute for Women’s Policy Research. pp. 12.
+_Source: Hegewisch A. and Hartmann H. 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, Institute for Women’s Policy Research. pp. 12._
 
 Hence, as the Index of Occupational Segregation diminishes and approaches zero, which means that the labour market becomes more occupationally integrated, then there is an improvement to the relative earnings of women with respect to the corresponding earnings of their male counterparts. 
 
