@@ -1,6 +1,6 @@
 ###Introduction
 ___
-Over the last years, it is apparent that women have increasingly managed to both enter in traditional male occupation  and increase their participation in the labour force and subsequently to the labour market. As a result, over the last years the gender pay gap has diminished significantly, especially during 1985 – 2000 (Blau F. and Kahn L., 2000).
+Over the last years, it is apparent that women have increasingly managed to both enter in traditional male occupation  and increase their participation in the labour force and subsequently to the labour market. As a result, over the last years the gender pay gap has diminished significantly, especially during 1985 – 2000 (Blau F. and Kahn L., 2000). 
 
 Figure 1:
 ___
