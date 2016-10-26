@@ -1,7 +1,7 @@
 <img src="https://github.com/gmantas93/assignments/blob/master/mantas.jpg" width="150" height="180" />
 Georgios Mantas CV
 ====================
-_Personal details: Hart van Brabantlaan street, Talent Square, 5038 LZ, Tilburg, Nethelands,phone number: +31 0614528640, email:gmantas93@gmail.com_
+_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, The Nethelands, phone number: +31 0614528640, email:gmantas93@gmail.com_
 ---------------------
 ####EDUCATION
 ___
@@ -45,8 +45,8 @@ ___
 
 ####SKILLS
 ___
-* Programming    Matlab 
-* Software       SPSS, Eviiews, Stata
+* Programming:    Matlab 
+* Software:       SPSS, Eviiews, Stata
 
 ####TEST SCORES
 ___
