@@ -57,12 +57,12 @@ To sum up, the contemporary economic literature provides a few tools which are a
 
 ###References
 ___
-**Blau F. and Kahn L. 2000.** “Gender Differences in Pay”. __Journal of Economic Perspectives.__ 14:4, pp.75 – 99.
+**Blau F. and Kahn L. 2000.** “Gender Differences in Pay”. _Journal of Economic Perspectives._ 14:4, pp.75 – 99.
 
 **BusinessDictionary.** “Definition of labor force”, second definition: http://www.businessdictionary.com/definition/labor-force.html 
 
 **Education International**: “The Gender Pay Gap – reasons and implications”, second paper from the campaign “Pay Equity now”.
 
-**Hegewisch A. and Hartmann H.** 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, __Institute for Women’s Policy Research.__  
+**Hegewisch A. and Hartmann H.** 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, _Institute for Women’s Policy Research._
 
 **Investopedia.** “DEFINITION of Labor Market”: http://www.investopedia.com/terms/l/labor-market.asp
