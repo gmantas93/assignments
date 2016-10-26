@@ -1,11 +1,15 @@
 ###Introduction
 ___
 Over the last years, it is apparent that women have increasingly managed to both enter in traditional male occupation  and increase their participation in the labour force and subsequently to the labour market. As a result, over the last years the gender pay gap has diminished significantly, especially during 1985 – 2000 (Blau F. and Kahn L., 2000).
+
 Figure 1:
+___
 **Women’s Median Annual Earnings as a Percentage of Men’s Median Annual Earnings for Full-Time, Year-Round Workers, 1960-2015**
 
 <img src="https://github.com/gmantas93/assignments/blob/master/2.PNG" />
+
 _Source: AAUW analysis of data from Proctor et al, U.S. Census Bureau, Income and Poverty in the United States 2015_
+
 
 Nonetheless, even after this considerable convergence between the wages of men and women the gender wage gap still remains a persistent global phenomenon. In addition, the relevant economic literature, based on the concurrent evidence, have highlighted that the pace of reduction of the gender wage gap have slowed down and it is more likely that the narrowing of the gender wage gap will not continue in the future ; considering also the impact of 2008 financial crises which destabilized the labour market and generally to the global economy. Thus, the persistent and distortive nature of the gender wage gap requires active policies and positive measures in order to enhance pay equity. However, in order to construct feasible and efficient policies, initially the sources and the reasons of the specific problem should be explored.
 
