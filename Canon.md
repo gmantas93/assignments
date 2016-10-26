@@ -10,6 +10,8 @@ ___
 
 _Source: AAUW analysis of data from Proctor et al, U.S. Census Bureau, Income and Poverty in the United States 2015_
 
+___
+
 
 Nonetheless, even after this considerable convergence between the wages of men and women the gender wage gap still remains a persistent global phenomenon. In addition, the relevant economic literature, based on the concurrent evidence, have highlighted that the pace of reduction of the gender wage gap have slowed down and it is more likely that the narrowing of the gender wage gap will not continue in the future ; considering also the impact of 2008 financial crises which destabilized the labour market and generally to the global economy. Thus, the persistent and distortive nature of the gender wage gap requires active policies and positive measures in order to enhance pay equity. However, in order to construct feasible and efficient policies, initially the sources and the reasons of the specific problem should be explored.
 
@@ -23,9 +25,14 @@ The hitherto economic literature, in general, has identified two main reasons wh
 The economic literature takes into consideration diligently all these factors that could possibly affect the gender wage gap and have concluded that indeed occupational segregation constitutes a major contributor to that specific gap. Moreover, a careful look at the occupational segregation and gender earnings ratio implies that these two trends have an inverse correlation. The following graph is intuitive to fathom that kind of relation.
 
 Figure 2:
+
 **Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
+
 <img src="https://github.com/gmantas93/assignments/blob/master/1.PNG" />
+
 _Source: Hegewisch A. and Hartmann H. 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, Institute for Women’s Policy Research. pp. 12._
+
+___
 
 Hence, as the Index of Occupational Segregation diminishes and approaches zero, which means that the labour market becomes more occupationally integrated, then there is an improvement to the relative earnings of women with respect to the corresponding earnings of their male counterparts. 
 
