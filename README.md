@@ -2,7 +2,7 @@
 This repository is for the Applied Economics Analysis 1 course 
 ___
 
-##[Cannon Assignment: Public Policy and Gender Wage Gap](https://github.com/gmantas93/assignments/blob/master/Canon.md)
+##[Canon Assignment: Public Policy and Gender Wage Gap](https://github.com/gmantas93/assignments/blob/master/Canon.md)
 
 ###Group Members/ ANR
 ___
