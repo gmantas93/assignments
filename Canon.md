@@ -135,6 +135,7 @@ From the above presentation, it is profound that approaching an equal pay betwee
 still plenty area which require policy implementation and investigation by the corresponding literature in order to ameliorate further the specific phenomenon.
 ___
 ###Footnotes
+
 [1]: Blau F. and Kahn L. pp. 79
 
 [2]: Education International: “The Gender Pay Gap – reasons and implication”. 2005. pp. 2. 2
@@ -160,49 +161,49 @@ ___
 ###References
 ___
 
-**Arneson, R.**, "Equality of Opportunity", _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2015/entries/equalopportunity/>.
+* **Arneson, R.**, "Equality of Opportunity", _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2015/entries/equalopportunity/>.
 
-**Azmat G., Petrolongo B.**, 2014, “Gender and the labor market: What have we learned from field and lab experiments?”, _United Kingdom Centre for Economic Performance (LSE)_
+* **Azmat G., Petrolongo B.**, 2014, “Gender and the labor market: What have we learned from field and lab experiments?”, _United Kingdom Centre for Economic Performance (LSE)_
 
-**Balafoutas L. and Sutter M.**, 2010. “Gender, Competition and the Efficiency of Policy Interventions, IZA Discussion Papers 4955, _Institute for the Study of Labor (IZA)_
+* **Balafoutas L. and Sutter M.**, 2010. “Gender, Competition and the Efficiency of Policy Interventions, IZA Discussion Papers 4955, _Institute for the Study of Labor (IZA)_
 
-**Boeri, T. and van Our, J.**, 2013. _The Economics of Imperfect Labor Markets_. Second edition. Princeton University Press
+* **Boeri, T. and van Our, J.**, 2013. _The Economics of Imperfect Labor Markets_. Second edition. Princeton University Press
 
-**Bureau of Labor Statistics, United States**, 2016. Current Population Survey. Retrieved from: http://data.bls.gov/cgi-bin/surveymost?le
+* **Bureau of Labor Statistics, United States**, 2016. Current Population Survey. Retrieved from: http://data.bls.gov/cgi-bin/surveymost?le
 
-**Blau F. and Kahn L. 2000.** “Gender Differences in Pay”. _Journal of Economic Perspectives._ 14:4, pp.75 – 99.
+* **Blau F. and Kahn L. 2000.** “Gender Differences in Pay”. _Journal of Economic Perspectives._ 14:4, pp.75 – 99.
 
-**BusinessDictionary.** “Definition of labor force”, second definition: http://www.businessdictionary.com/definition/labor-force.html 
+* **BusinessDictionary.** “Definition of labor force”, second definition: http://www.businessdictionary.com/definition/labor-force.html 
 
-**Education International**: “The Gender Pay Gap – reasons and implications”, second paper from the campaign “Pay Equity now”.
+* **Education International**: “The Gender Pay Gap – reasons and implications”, second paper from the campaign “Pay Equity now”.
 
-**Freeman R.**, 2008, “Labor productivity indicators comparison of two OECD databases productivity differentials & the Balassa-Samuelson effect”, _OECD Statistics Directorate_
+* **Freeman R.**, 2008, “Labor productivity indicators comparison of two OECD databases productivity differentials & the Balassa-Samuelson effect”, _OECD Statistics Directorate_
 
-**Gneezy, U., Niederle, M., & Rustichini, A.** 2003. Performance in Competitive Environments: Gender Differences. _Quarterly Journal of Economics_, 118(3): 1049-1074
+* **Gneezy, U., Niederle, M., & Rustichini, A.** 2003. Performance in Competitive Environments: Gender Differences. _Quarterly Journal of Economics_, 118(3): 1049-1074
 
-**Hegewisch A. and Hartmann H.** 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, _Institute for Women’s Policy Research._
+* **Hegewisch A. and Hartmann H.** 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, _Institute for Women’s Policy Research._
 
-**Hill C.**, 2016, “The simple truth about the gender pay gap”, _American Association of University Women (AAUW)_
+* **Hill C.**, 2016, “The simple truth about the gender pay gap”, _American Association of University Women (AAUW)_
 
-**Investopedia.** “DEFINITION of Labor Market”: http://www.investopedia.com/terms/l/labor-market.asp
+* **Investopedia.** “DEFINITION of Labor Market”: http://www.investopedia.com/terms/l/labor-market.asp
 
-**Kakwani N., Son. H. H.**, 2006, “The Gender Pay Gap over Women’s Working Lifetime”, _International Poverty Centre_, United Nations Development Programme;
+* **Kakwani N., Son. H. H.**, 2006, “The Gender Pay Gap over Women’s Working Lifetime”, _International Poverty Centre_, United Nations Development Programme;
 
-**Levine, L.**, 2004. The Gender Wage Gap and Pay Equity: Is Comparable Worth the Next Step? _Congressional Research Service_.
+* **Levine, L.**, 2004. The Gender Wage Gap and Pay Equity: Is Comparable Worth the Next Step? _Congressional Research Service_.
 
-**Merriam-Webster**. “DEFINITION of Quota”: http://www.merriam-webster.com/dictionary/quota
+* **Merriam-Webster**. “DEFINITION of Quota”: http://www.merriam-webster.com/dictionary/quota
 
-**Noland, M. et al**. 2016. Is Gender Diversity Profitable? Evidence from a Global Survey. _Peterson Institute for International Economics_. Working Paper 16-3.
+* **Noland, M. et al**. 2016. Is Gender Diversity Profitable? Evidence from a Global Survey. _Peterson Institute for International Economics_. Working Paper 16-3.
 
-**Pande, R., and Deanna F.**, 2012, “Gender Quotas and Female Leadership”, _Background Paper, World Development Report 2012_, The World Bank;
+* **Pande, R., and Deanna F.**, 2012, “Gender Quotas and Female Leadership”, _Background Paper, World Development Report 2012_, The World Bank;
 
-**Phillips, Anne**, 2004 “Defending equality of outcome” _Journal of Political Philosophy_, 12 (1). pp. 1-19. ISSN 1467-9760
+* **Phillips, Anne**, 2004 “Defending equality of outcome” _Journal of Political Philosophy_, 12 (1). pp. 1-19. ISSN 1467-9760
 
-**Roemer J.E and Trannoy A.** 2013 “Equality of Opportunity”, Cowles Foundation Discussion Paper No. 192, Yale University.
+* **Roemer J.E and Trannoy A.** 2013 “Equality of Opportunity”, Cowles Foundation Discussion Paper No. 192, Yale University.
 
-**UNESCO Institute for Statistics**, 2016. Enrolment per 100,000 inhabitants: tertiary education. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#
+* **UNESCO Institute for Statistics**, 2016. Enrolment per 100,000 inhabitants: tertiary education. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#
 
-**Weber, A. and Zulehner, C.** 2009. Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail? IZA DP No. 4526.
+* **Weber, A. and Zulehner, C.** 2009. Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail? IZA DP No. 4526.
 
 
 
