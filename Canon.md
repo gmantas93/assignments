@@ -4,9 +4,9 @@ Over the last years, it is apparent that women have increasingly managed to both
 
 Figure 1:
 ___
-**Women’s Median Annual Earnings as a Percentage of Men’s Median Annual Earnings for Full-Time, Year-Round Workers, 1960-2015**
+**Women’s to men’s weekly earnings ratio**
 
-<img src="https://github.com/gmantas93/assignments/blob/master/2.PNG" width="820"/>
+<img src="https://github.com/gmantas93/assignments/blob/master/3.PNG" width="820"/>
 
 _Source: AAUW analysis of data from Proctor et al, U.S. Census Bureau, Income and Poverty in the United States 2015_
 
@@ -25,7 +25,7 @@ The hitherto economic literature, in general, has identified two main reasons wh
 The economic literature broadly covers most of the factors that could possibly affect the gender wage gap and has concluded that indeed the occupational segregation constitutes a major contributor to that specific gap. Moreover, a careful look at the occupational segregation and gender earnings ratio implies that these two trends have an inverse correlation. The following graph is intuitive to fathom that kind of relation.
 
 Figure 2:
-
+___
 **Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 
 <img src="https://github.com/gmantas93/assignments/blob/master/1.PNG" />
@@ -38,13 +38,21 @@ Hence, as the Index of Occupational Segregation diminishes and approaches zero (
 
 Based on the hitherto literature analysis, it is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labour market to predominantly male and female occupations. Moreover, females face a wage penalty as female occupations usually are paid less. The term wage penalty means that female workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities. Figures 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particular low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
 
-Figure 3: Proportion of women in selected occupations
+**Figure 3: Proportion of women in selected occupations**
+___
+
+<img src="https://github.com/gmantas93/assignments/blob/master/4.PNG" />
 
 Source: Bureau of Labor Statistics, United States
+___
 
 Figure 4: Women’s to men’s weekly earnings in selected occupations
+___
+
+<img src="https://github.com/gmantas93/assignments/blob/master/5.PNG" />
 
 Source: Bureau of Labor Statistics, United States
+___
 
 The aforementioned information is related with the part of the literature that tries to establish the occupational segregation with respect to various observable aspects that are related with the skills, educational level and preferences of women in the labour market. However, some studies have underlined that “there is an unexplained residual which reflects gender discrimination” (Educational International. pp. 6). Therefore, occupational segregation has to be examined under the spectrum of social norms or attitudes[5]. Social norms can have such a powerful effect, that they may increase segregation and impact negatively the gender wage gap.
 
@@ -92,8 +100,12 @@ As it has been mentioned before, the differences in wages between men and women 
 As the differences in education level out and more women complete higher (tertiary) education (Figure 5), it is surprising that the earnings gap still exists. It is true that the wage gap has decreased in the past years, however, there are still occupations in which women are underrepresented (especially those jobs with higher wages). Given that social and education patterns have changed; it is still hard to justify the use of statistical discrimination by employers. Thus, the segregation in occupations may be due to the imposition of entry barriers for women (Levine, 2004), which is not so easy to overcome. If employers have certain degree of rejection towards women (say, taste-based discrimination), the educational gains that women have achieved and their new career perspectives will not be enough to reach a wage ratio equal to 1. Taste-based discrimination arises when the employer does not like women and feels that (s)he is paying more to his/her female employers than what (s)he is actually paying. In this case, the wage premium that men perceive is justified by the feeling that women are getting a higher wage compared to what they are actually receiving.
 
 Figure 5: Enrolment in Tertiary Education per 100 000 habitants, U.S.
+___
+
+<img src="https://github.com/gmantas93/assignments/blob/master/6.PNG" />
 
 Source: UNESCO Institute for Statistics
+___
 
 So, if employers discriminate based on their dislike for women, is this strategy optimal? Is discrimination a good decision from the companies’ point of view? According to Noland et al. (2016), the inclusion of women in higher positions increases the firm’s performance and skill base, giving room for further growth. Moreover, Weber and Zulehner (2009) carried out an analysis of startups survival rates based on the share of female employees. Their results show that firms that discriminate (have lower a percentage of women in their workforce compared to the industry average), tend to have lower survival rates. It is hard, if not impossible, to find an objective reason that would justify that women are kept out of certain occupations, especially those that have the higher wages. Furthermore, from a theoretical point of view it is not possible to justify the differences in wages.
 
