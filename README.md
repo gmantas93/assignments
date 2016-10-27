@@ -7,12 +7,18 @@ ___
 ###Group Members/ ANR
 ___
 Marco Alessandrini 440893
+
 Gloriana Madrigal Gutiérrez 602194
+
 Georgios Mantas 245448
+
 Utsav Saksena 629797
+
 Jocelyne Mwana Isha Nasibu 676027
 ___
 
 Tilburg University
+
 Applied Economic Analysis I
+
 October, 2016
