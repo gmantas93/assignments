@@ -43,7 +43,7 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/4.PNG" />
 
-Source: Bureau of Labor Statistics, United States
+_Source: Bureau of Labor Statistics, United States_
 ___
 
 Figure 4: Women’s to men’s weekly earnings in selected occupations
@@ -51,7 +51,7 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/5.PNG" />
 
-Source: Bureau of Labor Statistics, United States
+_Source: Bureau of Labor Statistics, United States_
 ___
 
 The aforementioned information is related with the part of the literature that tries to establish the occupational segregation with respect to various observable aspects that are related with the skills, educational level and preferences of women in the labour market. However, some studies have underlined that “there is an unexplained residual which reflects gender discrimination” (Educational International. pp. 6). Therefore, occupational segregation has to be examined under the spectrum of social norms or attitudes[5]. Social norms can have such a powerful effect, that they may increase segregation and impact negatively the gender wage gap.
@@ -104,7 +104,7 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/6.PNG" />
 
-Source: UNESCO Institute for Statistics
+_Source: UNESCO Institute for Statistics_
 ___
 
 So, if employers discriminate based on their dislike for women, is this strategy optimal? Is discrimination a good decision from the companies’ point of view? According to Noland et al. (2016), the inclusion of women in higher positions increases the firm’s performance and skill base, giving room for further growth. Moreover, Weber and Zulehner (2009) carried out an analysis of startups survival rates based on the share of female employees. Their results show that firms that discriminate (have lower a percentage of women in their workforce compared to the industry average), tend to have lower survival rates. It is hard, if not impossible, to find an objective reason that would justify that women are kept out of certain occupations, especially those that have the higher wages. Furthermore, from a theoretical point of view it is not possible to justify the differences in wages.
