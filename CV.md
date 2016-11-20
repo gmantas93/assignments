@@ -46,7 +46,7 @@ ___
 ####SKILLS
 ___
 * Programming:    Matlab 
-* Software:       SPSS, Eviiews, Stata
+* Software:       SPSS, Eviews, Stata
 
 ####TEST SCORES
 ___
