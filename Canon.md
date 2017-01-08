@@ -91,7 +91,7 @@ Discrimination can be seen in terms of wages, promotions (glass ceiling), hiring
 **Figure 8 (left hand side): Discrimination because of Gender (%), U.S. & Figure 9 (right hand side): Respondents discriminated due to gender (%)** 
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/Figure8_canon.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure8_canon.PNG" width="825"/>
 
 _Source: Pew Research Center_
 
