@@ -1,6 +1,6 @@
-###Introduction
+### 1. Introduction
 ___
-Over the last years, it is apparent that women have increasingly managed to both enter in traditional male occupations[1] and increase their participation in the labour force and, subsequently, to the labour market. As a result, over the last years the gender pay gap has diminished significantly, especially during 1985 – 2000 (Blau F. and Kahn L., 2000).
+Over the last years, women have increasingly managed to both, enter in traditional male occupations[1] and increase their participation in the labor force. As a result, the gender pay gap has diminished significantly, especially during 1985 – 2000 period (Blau and Kahn, 2000). However, efforts still need to be carried out to achieve wage equity. Figure 1 shows the ratio of women to men’s earnings in the United States for the 1990-2015 period. During the 1990’s significant progress was done in narrowing the wage differences, however, the rate of convergence towards equal pay has slowed down during the last ten years and its narrowing is not likely to continue in the future[2].
 
 Figure 1:
 ___
@@ -8,7 +8,7 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/3.PNG" width="820"/>
 
-_Source: AAUW analysis of data from Proctor et al, U.S. Census Bureau, Income and Poverty in the United States 2015_
+_Source: Bureau of Labor Statistics, United States_
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 [1]: Blau F. and Kahn L. pp. 79
 
-[2]: Education International: “The Gender Pay Gap – reasons and implication”. 2005. pp. 2. 2
+[2]: Education International: “The Gender Pay Gap – reasons and implication”. 2005. pp. 2
 
 [3]: Investopedia: DEFINITION of 'Labor Market'
 
