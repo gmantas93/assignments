@@ -4,7 +4,7 @@ ___
 
 ##[Canon Assignment: Public Policy and Gender Wage Gap](https://github.com/gmantas93/assignments/blob/master/Canon.md)
 
-###Group Members/ ANR
+###Group Members/ ANR numbers
 ___
 **Marco Alessandrini 440893**
 
