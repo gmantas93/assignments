@@ -28,7 +28,7 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.png" />
 
-_Source: Hegewisch A. and Hartmann H. 2014.
+_Source: Hegewisch A. and Hartmann H. (2014)_
 ___
 
 It is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labor market into predominantly male and female occupations. Moreover, females face a wage penalty (workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities) as female occupations usually are paid less. Figure 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particularly low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
@@ -62,14 +62,14 @@ ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure5_canon.png" />
 
-_Source: Pew Research Center (2013)._
+_Source: Pew Research Center (2013)_
 
 **Figure 6: Respondents’ perception of parenthood on career advancement (%)** 
 ___
 
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure6_canon.png" />
 
-_Source: Pew Research Center (2013)._
+_Source: Pew Research Center (2013)_
 
 
 ###3.	Direct Gender Discrimination
