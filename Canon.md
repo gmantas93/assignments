@@ -12,25 +12,24 @@ _Source: Bureau of Labor Statistics, United States_
 
 ___
 
+Given the persistent and distortive nature of the gender wage gap, active policies and positive measures are required to enhance pay equity. In order to construct feasible and efficient policies, the sources and the reasons of the wage gap should be explored.  Formally, we will define the gender wage gap (or gender pay gap) as a measure the earnings differences between women and men in paid employment in the labor market. It is one of the many indicators of gender inequality in a country (Education International, 2005, pp. 1).
 
-Nonetheless, even after this considerable convergence between the wages of men and women the ratio in Figure 1 moves closer to 100%), the gender wage gap still remains a persistent global phenomenon. In addition, the relevant economic literature, based on the concurrent evidence, has highlighted that the pace of reduction of the gender wage gap has slowed down and its narrowing is not likely to continue in the future[2]. Especially, after the impact of the 2008 financial crisis which destabilized labour markets and the generally economy. Thus, the persistent and distortive nature of the gender wage gap requires active policies and positive measures in order to enhance pay equity. However, in order to construct feasible and efficient policies, initially the sources and the reasons of the specific problem should be explored.
+The differences in wages between men and women lead to undesired outcomes. These differentials may arise in three possible situations: women generally earn less than men, women earn less than men in the same occupation or women earn less than men for jobs that have the same requirements. All three scenarios are particularly important as they clearly exemplify a source of discrimination and disadvantage for women in comparable working contexts. 
 
-Before we proceed with the presentation of gender pay gap causes, some economic terms have to be clarified by providing a few brief definitions. First, the gender wage gap (or gender pay gap) is a measure the earnings differences between women and men in paid employment in the labour market. It is one of the many indicators of gender inequality in a country, when examining labour market participation in terms of gender (Education International, 2005, pp. 1). Secondly, the labour market refers to the supply and demand for labor, in which employees provide the supply and employers the demand. It is a major component of any economy, and is intricately tied in with markets for capital, goods and services[3] . Namely, demand for labor is a concept that describes the amount of demand for labor that an economy or firm is willing to employ at a given point in time while, the labour supply is the number of hours people are willing and able to supply at a given wage rate. Finally, labor force is the number of individuals in an economy who either are employed or are seeking employment.
+The economic literature has not defined a specific cause for the gender wage gap, however, in this paper we will focus on two of them: occupational segregation and direct gender discrimination. After discussing the implications of these two factors, we analyze public policy tools (specially the use of quotas) as a mechanism to reduce the gender wage gap.  
 
-###Gender Wage Gap and Occupational Segregation (Social Norms Perspective)
+###2. Gender Wage Gap and Occupational Segregation (Social Norms Perspective)
 ___
 
-The hitherto economic literature, in general, has identified two main reasons which contribute to the gender wage gap. The first one is the direct gender discrimination in the labour market and the second one is occupational (gender) segregation. In this chapter, our analysis will concentrate exclusively on the occupational segregation. Before, we proceed with the demonstration of the correlation between the gender wage gap and the occupational segregation; we have initially to provide a brief description of the latter term. ‘Occupational or employment segregation’[4] is an expression for the gendered division of labour in paid employment, where men and women are channeled into different types of occupational roles and tasks. Occupational segregations could vary by race, gender, generational cohorts (different generations of women which insert in the labour market) educational background and skill requirements. 
-
-The economic literature broadly covers most of the factors that could possibly affect the gender wage gap and has concluded that indeed the occupational segregation constitutes a major contributor to that specific gap. Moreover, a careful look at the occupational segregation and gender earnings ratio implies that these two trends have an inverse correlation. The following graph is intuitive to fathom that kind of relation.
+Occupational or employment segregation[3] is an expression for the gendered division of labor in paid employment, where men and women are channeled into different types of occupational roles and tasks (Hegewisch and Hartmann, 2014). A careful analysis at the occupational segregation and gender earnings ratio shows that these two variables have an inverse correlation (Figure 2). The Index of occupational segregation is calculated using the methodology proposed by Duncan and Duncan (1955), where a value of 1 implies that the occupation is completely segregated. Hence, as the Index of Occupational Segregation diminishes and approaches zero (the labour market becomes more occupationally integrated), the relative earnings of women with respect to their male counterparts increase.
 
 Figure 2:
 ___
 **Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 
-<img src="https://github.com/gmantas93/assignments/blob/master/1.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.PNG" />
 
-_Source: Hegewisch A. and Hartmann H. 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, Institute for Women’s Policy Research. pp. 12._
+_Source: Hegewisch A. and Hartmann H. 2014.
 
 ___
 
@@ -152,7 +151,7 @@ ___
 
 [2]: Education International: “The Gender Pay Gap – reasons and implication”. 2005. pp. 2
 
-[3]: Investopedia: DEFINITION of 'Labor Market'
+[3]: Hegewisch A. and Hartmann H. 2014, pp. 18
 
 [4]: Hegewisch A. and Hartmann H. 2014, pp. 18
 
