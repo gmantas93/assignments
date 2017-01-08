@@ -33,14 +33,12 @@ _Source: Hegewisch A. and Hartmann H. 2014.
 
 ___
 
-Hence, as the Index of Occupational Segregation diminishes and approaches zero (the labour market becomes more occupationally integrated), the relative earnings of women with respect to their male counterparts increase.
-
-Based on the hitherto literature analysis, it is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labour market to predominantly male and female occupations. Moreover, females face a wage penalty as female occupations usually are paid less. The term wage penalty means that female workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities. Figures 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particular low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
+It is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labor market into predominantly male and female occupations. Moreover, females face a wage penalty (workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities) as female occupations usually are paid less. Figure 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particularly low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
 
 **Figure 3: Proportion of women in selected occupations**
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/4.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure3_canon.PNG" />
 
 _Source: Bureau of Labor Statistics, United States_
 ___
@@ -48,7 +46,7 @@ ___
 Figure 4: Women’s to men’s weekly earnings in selected occupations
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/5.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure4_canon.PNG" />
 
 _Source: Bureau of Labor Statistics, United States_
 ___
