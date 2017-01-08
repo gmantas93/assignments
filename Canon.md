@@ -1,4 +1,4 @@
-### 1. Introduction
+###1. Introduction
 ___
 Over the last years, women have increasingly managed to both, enter in traditional male occupations[1] and increase their participation in the labor force. As a result, the gender pay gap has diminished significantly, especially during 1985 – 2000 period (Blau and Kahn, 2000). However, efforts still need to be carried out to achieve wage equity. Figure 1 shows the ratio of women to men’s earnings in the United States for the 1990-2015 period. During the 1990’s significant progress was done in narrowing the wage differences, however, the rate of convergence towards equal pay has slowed down during the last ten years and its narrowing is not likely to continue in the future[2].
 
@@ -9,7 +9,6 @@ ___
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure1_canon.PNG" width="820"/>
 
 _Source: Bureau of Labor Statistics, United States_
-
 ___
 
 Given the persistent and distortive nature of the gender wage gap, active policies and positive measures are required to enhance pay equity. In order to construct feasible and efficient policies, the sources and the reasons of the wage gap should be explored.  Formally, we will define the gender wage gap (or gender pay gap) as a measure the earnings differences between women and men in paid employment in the labor market. It is one of the many indicators of gender inequality in a country (Education International, 2005, pp. 1).
@@ -18,7 +17,7 @@ The differences in wages between men and women lead to undesired outcomes. These
 
 The economic literature has not defined a specific cause for the gender wage gap, however, in this paper we will focus on two of them: occupational segregation and direct gender discrimination. After discussing the implications of these two factors, we analyze public policy tools (specially the use of quotas) as a mechanism to reduce the gender wage gap.  
 
-###2. Gender Wage Gap and Occupational Segregation (Social Norms Perspective)
+###2. Gender Wage Gap and Occupational Segregation
 ___
 
 Occupational or employment segregation[3] is an expression for the gendered division of labor in paid employment, where men and women are channeled into different types of occupational roles and tasks (Hegewisch and Hartmann, 2014). A careful analysis at the occupational segregation and gender earnings ratio shows that these two variables have an inverse correlation (Figure 2). The Index of occupational segregation is calculated using the methodology proposed by Duncan and Duncan (1955), where a value of 1 implies that the occupation is completely segregated. Hence, as the Index of Occupational Segregation diminishes and approaches zero (the labour market becomes more occupationally integrated), the relative earnings of women with respect to their male counterparts increase.
@@ -30,7 +29,6 @@ ___
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.png" />
 
 _Source: Hegewisch A. and Hartmann H. 2014.
-
 ___
 
 It is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labor market into predominantly male and female occupations. Moreover, females face a wage penalty (workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities) as female occupations usually are paid less. Figure 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particularly low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
@@ -207,6 +205,3 @@ ___
 * **UNESCO Institute for Statistics**, 2016. “EEnrolment per 100,000 inhabitants: tertiary education”. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
 
 * **Weber, A. and Zulehner, C.**, 2009. “Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail?”. IZA DP No. 4526, _Institute for the Study of Labor (IZA)_.
-
-
-
