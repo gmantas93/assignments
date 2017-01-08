@@ -6,19 +6,19 @@ ___
 
 ###Group Members/ ANR
 ___
-Marco Alessandrini 440893
+**Marco Alessandrini 440893
 
-Gloriana Madrigal Gutiérrez 602194
+**Gloriana Madrigal Gutiérrez 602194
 
-Georgios Mantas 245448
+**Georgios Mantas 245448
 
-Utsav Saksena 629797
+**Utsav Saksena 629797
 
-Jocelyne Mwana Isha Nasibu 676027
+**Jocelyne Mwana Isha Nasibu 676027
 ___
 
-Tilburg University
+**Tilburg University
 
-Applied Economic Analysis I
+**Applied Economic Analysis I
 
-October, 2016
+**January, 2017
