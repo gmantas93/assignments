@@ -6,7 +6,7 @@ Figure 1:
 ___
 **Women’s to men’s weekly earnings ratio**
 
-<img src="https://github.com/gmantas93/assignments/blob/master/3.PNG" width="820"/>
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure1_canon.PNG" width="820"/>
 
 _Source: Bureau of Labor Statistics, United States_
 
