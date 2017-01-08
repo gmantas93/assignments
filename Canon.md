@@ -27,7 +27,7 @@ Figure 2:
 ___
 **Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 
-<img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.png" />
 
 _Source: Hegewisch A. and Hartmann H. 2014.
 
@@ -38,7 +38,7 @@ It is apparent that the occupational segregation affects negatively the earnings
 **Figure 3: Proportion of women in selected occupations**
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/Figure3_canon.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure3_canon.png" />
 
 _Source: Bureau of Labor Statistics, United States_
 ___
@@ -46,7 +46,7 @@ ___
 Figure 4: Women’s to men’s weekly earnings in selected occupations
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/Figure4_canon.PNG" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure4_canon.png" />
 
 _Source: Bureau of Labor Statistics, United States_
 ___
