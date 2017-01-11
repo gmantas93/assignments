@@ -182,7 +182,7 @@ ___
 
 * **Goldin, C.** (2014). A grand gender convergence: Its last chapter. _American Economic Review. 104_(4): 1091-1119.
 
-* **Hegewisch, A., & Hartmann, H.** (2014). Occupational segregation and the gender wage gap: a job half done. _Institute for Women’s Policy Research.
+* **Hegewisch, A., & Hartmann, H.** (2014). Occupational segregation and the gender wage gap: a job half done. _Institute for Women’s Policy Research_.
 
 * **Hill, C.** (2014). The simple truth about the gender pay gap. _American Association of University Women. September, 18_.
 
