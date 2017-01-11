@@ -160,6 +160,8 @@ ___
 
 * **Balafoutas, L. & Sutter, M.** (2010). Gender, Competition and the Efficiency of Policy Interventions. IZA Discussion Paper No. 4955. _Institute for the Study of Labor (IZA)_. Available at SSRN: https://ssrn.com/abstract=1631090
 
+* **Blau, F. & Kahn, L.** (2000). Gender Differences in Pay. _Journal of Economics Perspectives. 14_:4, pp. 75-99.
+
 * **Boeri, T., & Van Ours, J.** (2013). _The economics of imperfect labor markets_. Princeton University Press.
 
 * **Bureau of Labor Statistics, United States.** (2016). Current Population Survey. Retrieved from: http://data.bls.gov/cgi-bin/surveymost?le
