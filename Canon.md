@@ -202,6 +202,6 @@ ___
 
 * **Roemer, J.E. and Trannoy A.**, 2013 “Equality of Opportunity”, _Cowles Foundation_, Discussion Paper No. 192, Yale University.
 
-* **UNESCO Institute for Statistics**, 2016. “EEnrolment per 100,000 inhabitants: tertiary education”. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
+* **UNESCO Institute for Statistics**, 2016. “Enrolment per 100,000 inhabitants: tertiary education”. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
 
 * **Weber, A. and Zulehner, C.**, 2009. “Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail?”. IZA DP No. 4526, _Institute for the Study of Labor (IZA)_.
