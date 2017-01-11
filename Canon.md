@@ -2,9 +2,8 @@
 ___
 Over the last years, women have increasingly managed to both, enter in traditional male occupations[1] and increase their participation in the labor force. As a result, the gender pay gap has diminished significantly, especially during 1985 – 2000 period (Blau and Kahn, 2000). However, efforts still need to be carried out to achieve wage equity. Figure 1 shows the ratio of women to men’s earnings in the United States for the 1990-2015 period. During the 1990’s significant progress was done in narrowing the wage differences, however, the rate of convergence towards equal pay has slowed down during the last ten years and its narrowing is not likely to continue in the future[2].
 
-Figure 1:
+**Figure 1:Women’s to men’s weekly earnings ratio**
 ___
-**Women’s to men’s weekly earnings ratio**
 
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure1_canon.PNG" width="820"/>
 
@@ -22,13 +21,12 @@ ___
 
 Occupational or employment segregation[3] is an expression for the gendered division of labor in paid employment, where men and women are channeled into different types of occupational roles and tasks (Hegewisch and Hartmann, 2014). A careful analysis of the occupational segregation and gender earnings ratio shows that these two variables have an inverse correlation (Figure 2). The Index of occupational segregation is calculated using the methodology proposed by Duncan and Duncan (1955), where a value of 1 implies that the occupation is completely segregated. Hence, as the Index of Occupational Segregation diminishes and approaches zero (the labour market becomes more occupationally integrated), the relative earnings of women with respect to their male counterparts increase.
 
-Figure 2:
+**Figure 2: Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 ___
-**Change in the index of Occupational Segregation and the Gender Earnings Ratio, 1979 to 2012**
 
 <img src="https://github.com/gmantas93/assignments/blob/master/Figure2_canon.png" />
 
-_Source: Hegewisch A. and Hartmann H. (2014)_
+_Source: Hegewisch and Hartmann (2014)_
 ___
 
 It is apparent that the occupational segregation affects negatively the earnings of genders since it splits the labor market into predominantly male and female occupations. Moreover, females face a wage penalty (workers earn less money than their counterparts in jobs that require the exact same skills and responsibilities) as female occupations usually are paid less. Figure 3 and Figure 4 show a group of selected occupations and the proportion of women that work in them. As it can be seen in Figure 4, women’s wages in male-dominated occupations are particularly low compared to their male counterparts, but also for female-dominated jobs the wage gap still exists.
