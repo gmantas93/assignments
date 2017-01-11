@@ -156,52 +156,52 @@ ___
 ###6. References
 ___
 
-* **Arneson, R.**, "Equality of Opportunity", _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2015/entries/equalopportunity/>.
+* **Arneson, Richard.** Equality of Opportunity. The Stanford Encyclopedia of Philosophy (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/equal-opportunity/>.
 
-* **Azmat G., Petrolongo B.**, 2014, “Gender and the labor market: What have we learned from field and lab experiments?”, _United Kingdom Centre for Economic Performance (LSE)_.
+* **Azmat, G., & Petrongolo, B.** (2014). Gender and the labor market: What have we learned from field and lab experiments?. _Labour Economics, 30,_ 32-40.
 
-* **Balafoutas L. and Sutter M.**, 2010. “Gender, Competition and the Efficiency of Policy Interventions”, IZA Discussion Papers 4955, _Institute for the Study of Labor (IZA)_. 
+* **Balafoutas, L. & Sutter, M.** (2010). Gender, Competition and the Efficiency of Policy Interventions. IZA Discussion Paper No. 4955. _Institute for the Study of Labor (IZA)_. Available at SSRN: https://ssrn.com/abstract=1631090
 
-* **Boeri, T. and van Our, J.**, 2013. _The Economics of Imperfect Labor Markets_. Second edition. Princeton University Press.
+* **Boeri, T., & Van Ours, J.** (2013). _The economics of imperfect labor markets_. Princeton University Press.
 
-* **Bureau of Labor Statistics, United States**, 2016. Current Population Survey. Retrieved from: http://data.bls.gov/cgi-bin/surveymost?le.
+* **Bureau of Labor Statistics, United States.** (2016). Current Population Survey. Retrieved from: http://data.bls.gov/cgi-bin/surveymost?le
 
-* **Bureau of Labor Statistics, United States**, 2015. Labor Force Statistics from the Current Population Survey. Retrieved from: https://www.bls.gov/cps/cpsaat22.htm.
+* **Bureau of Labor Statistics, United States.** (2015). Labor Force Statistics from the Current Population Survey. Retrieved from: https://www.bls.gov/cps/cpsaat22.htm
 
-* **Correll, S., Bernard, S. and Paik, I.**, 2007. “Getting a Job: Is there a Motherhood Penalty?”. _American Journal of Sociology_. 112(5): 1297-1338.
+* **Correll, S., Benard, S., & Paik, I.** (2007). Getting a Job: Is There a Motherhood Penalty? _American Journal of Sociology, 112_(5), 1297-1338. doi:10.1086/511799
 
-* **Duncan, O. and Duncan, B.**, 1955. “A Methodological Analysis of Segregation Indexes”. _American Sociological Review_. 20(2): 210-217.
+* **Duncan, O., & Duncan, B.** (1955). A Methodological Analysis of Segregation Indexes. _American Sociological Review, 20_(2), 210-217. Retrieved from http://www.jstor.org/stable/2088328
 
-* **Education International.**, 2005. “The Gender Pay Gap – reasons and implications”, second paper from the campaign “Pay Equity now”.
+* **Education International.** (2005). The Gender Pay Gap – reasons and implications, second paper from the campaign “Pay Equity now”.
 
-* **Freeman R.**, 2008. “Labor productivity indicators comparison of two OECD databases productivity differentials & the Balassa-Samuelson effect”, _OECD Statistics Directorate_.
+* **Freeman, R.** (2008). Labour Productivity Indicators. Comparison of two OECD Databases, Productivity Differentials and the Balassa-Samuelson Effect. _Retrieved from OECD Statistics Directorate Web site: http://www. oecd. org/dataoecd/57/15/41354425. pdf._
 
-* **Gneezy, U., Niederle, M., & Rustichini, A.** 2003. “Performance in Competitive Environments: Gender Differences”. _Quarterly Journal of Economics_, 118(3): 1049-1074.
+* **Gneezy, U., Niederle, M., & Rustichini, A.** (2003). Performance in competitive environments: Gender differences. _QUARTERLY JOURNAL OF ECONOMICS-CAMBRIDGE MASSACHUSETTS-, 118_(3), 1049-1074.
 
-* **Goldin, C. and Rouse, C.** 2000. “Orchestrating Impartiality: The impact of bling auditions on female musicians”, _American Economic Review_. 90(4): 715-741.
+* **Goldin, C. and Rouse, C.** (2000). Orchestrating Impartiality: The impact of bling auditions on female musicians. _American Economic Review. 90_(4): 715-741.
 
-* **Goldin, C.** 2014. “A Grand Gender Convergence: Its Last Chapter”. _American Economic Review_. 104(4): 1091-1119.
+* **Goldin, C.** (2014). A grand gender convergence: Its last chapter. _American Economic Review. 104_(4): 1091-1119.
 
-* **Hegewisch, A. and Hartmann, H.** 2014. “Occupational Segregation and the Gender Gap: A Job Half Done.”, _Institute for Women’s Policy Research_.
+* **Hegewisch, A., & Hartmann, H.** (2014). Occupational segregation and the gender wage gap: a job half done. _Institute for Women’s Policy Research. Retrieved from file:///C:/Users/Linsey/Downloads C, 419_.
 
-* **Hill, C.**, 2016, “The simple truth about the gender pay gap”, _American Association of University Women (AAUW)_.
+* **Hill, C.** (2014). The simple truth about the gender pay gap. _American Association of University Women. September, 18_.
 
-* **Kakwani, N., Son. H. H.**, 2006. “The Gender Pay Gap over Women’s Working Lifetime”, _International Poverty Centre_, United Nations Development Programme.
+* **Levine, L.** (2004). _The gender wage gap and pay equity: Is comparable worth the next step?_ Washington, DC: Congressional Research Service
 
-* **Levine, L.**, 2004. “The Gender Wage Gap and Pay Equity: Is Comparable Worth the Next Step?” _Congressional Research Service_.
+* **Merriam-Webster**. DEFINITION of Quota. URL: http://www.merriam-webster.com/dictionary/quota.
 
-* **Merriam-Webster**. “DEFINITION of Quota”, URL: http://www.merriam-webster.com/dictionary/quota.
+* **Noland, M., Moran, T., & Kotschwar, B. R.** (2016). Is Gender Diversity Profitable? Evidence from a Global Survey. _Peterson Institute for International Economics Working Paper_, (16-3).
 
-* **Noland, M. et al**. 2016. “Is Gender Diversity Profitable? Evidence from a Global Survey”. _Peterson Institute for International Economics_. Working Paper 16-3.
+* **Pande, R., & Ford, D.** (2011). Gender quotas and female leadership: A review, Background Paper for the World Development Report on Gender. _Scholar Harvard), (7).
 
-* **Pande, R., and Deanna, F.**, 2012. “Gender Quotas and Female Leadership”, _Background Paper, World Development Report 2012_, The World Bank.
+* **Pew Research Center**. (2013). On Pay Gap, Millennial Women Near Parity-For Now. Washington, D.C.
 
-* **Pew Research Center**, 2013. “On Pay Gap, Millennial Women Near Parity-For Now”. Washington, D.C.
+* **Phillips, A.** (2004). Defending equality of outcome. _Journal of political philosophy, 12_(1), 1-19.
 
-* **Phillips, A.**, 2004. “Defending equality of outcome” _Journal of Political Philosophy_, 12 (1). pp. 1-19. ISSN 1467-9760.
+* **Roemer, John E. & Trannoy, Alain.** (2013). Equality of Opportunity. Cowles Foundation Discussion Paper No. 1921. Available at SSRN: https://ssrn.com/abstract=2345357
 
-* **Roemer, J.E. and Trannoy A.**, 2013 “Equality of Opportunity”, _Cowles Foundation_, Discussion Paper No. 192, Yale University.
+* **UNESCO Institute for Statistics**. (2016). Enrolment per 100,000 inhabitants: tertiary education. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
 
-* **UNESCO Institute for Statistics**, 2016. “Enrolment per 100,000 inhabitants: tertiary education”. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
+*	**Son, H. H., & Kakwani, N.** (2006). _The Gender Pay Gap over Women's Working Lifetime_.(No. 20). One Pager. International Policy Centre for Inclusive Growth. http://EconPapers.repec.org/RePEc:ipc:opager:20.
 
-* **Weber, A. and Zulehner, C.**, 2009. “Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail?”. IZA DP No. 4526, _Institute for the Study of Labor (IZA)_.
+* **Weber, A. and Zulehner, C.**, 2009. Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail?. IZA DP No. 4526, _Institute for the Study of Labor (IZA)_.
