@@ -95,9 +95,7 @@ _Source: Pew Research Center_
 
 Linking the two causes that we address in this paper, O’Neill and O’Neill (2005) mention that women tend to work more part-time and less weeks (total) than men, which has a negative effect on wages. In fact, according to the US Bureau of Labor Statistics, women worked, on average, 5 hours less per week than men in 2015. The latter may be related to the fact that women tend to take breaks due to family responsibilities and thus, select jobs that offer some flexibility. The effect of statistical and direct discrimination can be seen in Correll et al. (2007). The authors’ results show that evaluators (in the experiment) tend to rate mothers as less competent and less committed than non-mothers, while prospective employers called back non-mothers more often than mothers. These outcomes, however, did not apply to fathers and non-fathers.
 
-So, is discrimination an optimal decision from the companies’ point of view? According to Noland et al. (2016), the inclusion of women in higher positions increases the firm’s performance and skill base, giving room for further growth. Moreover, Weber and Zulehner (2009) carried out an analysis of startups survival rates based on the share of female employees. Their results show that firms that discriminate (have lower a percentage of women in their workforce compared to the industry average), tend to have lower survival rates. It is hard, if not impossible, to find an objective reason that would justify that women are kept out of certain occupations, especially those that have the higher wages. Furthermore, from a theoretical point of view it is not possible to justify the differences in wages.
-
-The introduction of public policies is a possible solution to the gender-based discrimination in the labor market. Some proponents state that the use of comparable worth policies should be a good start. Comparable worth implies that people doing equivalent jobs (have the same requirements, responsibilities, and attributes) should receive the same wage (Levine, 2004). Although in theory it is a good idea, the implementation and assumptions behind are hard and unpractical. Another policy tool can be the use of shared jobs.
+So, is discrimination an optimal decision from the companies’ point of view? According to Noland et al. (2016), the inclusion of women in higher positions increases the firm’s performance and skill base, giving room for further growth. Moreover, Weber and Zulehner (2009) carried out an analysis of startups survival rates based on the share of female employees. Their results show that firms that discriminate (have a lower percentage of women in their workforce compared to the industry average), tend to have lower survival rates. It is hard, if not impossible, to find an objective reason that would justify that women are kept out of certain occupations, especially those that have the higher wages. Furthermore, from a theoretical point of view it is not possible to justify the differences in wages.
 
 
 ###4. Gender Wage Gap Reduction-Public Policy
@@ -132,7 +130,7 @@ For the purpose of examining the consequences of quotas in real life scenarios, 
 
 While quotas do not have any immediate consequences in the form of equalizing outcomes, it has been shown that they lead to improved attitudes of both political leaders and voters in ways that can reduce the need for such quotas in the long run (Ford and Pande 2011).
 
-2) Corporate board leadership -  The idea of having quotas for women in the corporate workplace is relatively novel, especially when compared to the political sphere. Nevertheless, there does exist substantial amount of literature on quotas that have been implemented in corporate boards across countries. Norway, Spain and Germany are examples of countries that have successfully added mandates for gender based quotas. Responses have been overwhelmingly positive as far as participation is concerned. This leads to conclude that there is no _unwillingness_ on the part of women to work in positions of leadership. Moreover, it has been shown that there are no adverse effects of having women as decision makers in corporate organizations. On the contrary, the evidence seems the suggest that it actually leads to better short-term outcomes for workers (Ford and Pande 2011).
+2) Corporate board leadership -  The idea of having quotas for women in the corporate workplace is relatively novel, especially when compared to the political sphere. Nevertheless, there does exist substantial amount of literature on quotas that have been implemented in corporate boards across countries. Norway, Spain and Germany are examples of countries that have successfully added mandates for gender based quotas. Responses have been overwhelmingly positive as far as participation is concerned. This leads to conclude that there is no _unwillingness_ on the part of women to work in positions of leadership. Moreover, it has been shown that there are no adverse effects of having women as decision makers in corporate organizations. On the contrary, the evidence seems to suggest that it actually leads to better short-term outcomes for workers (Ford and Pande 2011).
 
 ###5. Conclusion
 ___
@@ -202,8 +200,8 @@ ___
 
 * **Roemer, John E. & Trannoy, Alain.** (2013). Equality of Opportunity. Cowles Foundation Discussion Paper No. 1921. Available at SSRN: https://ssrn.com/abstract=2345357
 
-* **UNESCO Institute for Statistics**. (2016). Enrolment per 100,000 inhabitants: tertiary education. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
-
 *	**Son, H. H., & Kakwani, N.** (2006). _The Gender Pay Gap over Women's Working Lifetime_.(No. 20). One Pager. International Policy Centre for Inclusive Growth. http://EconPapers.repec.org/RePEc:ipc:opager:20.
+
+* **UNESCO Institute for Statistics**. (2016). Enrolment per 100,000 inhabitants: tertiary education. Retrieved from: http://data.uis.unesco.org/Index.aspx?queryid=131#.
 
 * **Weber, A. and Zulehner, C.**, 2009. Competition and Gender Prejudice: Are Discriminatory Employers Doomed to Fail?. IZA DP No. 4526, _Institute for the Study of Labor (IZA)_.
