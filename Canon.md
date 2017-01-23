@@ -65,7 +65,7 @@ _Source: Pew Research Center (2013)_
 **Figure 6: Respondents’ perception of parenthood on career advancement (%)** 
 ___
 
-<img src="https://github.com/gmantas93/assignments/blob/master/Figure6_canon.png" />
+<img src="https://github.com/gmantas93/assignments/blob/master/Figure6_Canon.png" />
 
 _Source: Pew Research Center (2013)_
 
