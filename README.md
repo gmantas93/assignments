@@ -19,4 +19,4 @@ ___
 
 **January, 2017**
 
-curl -L -o master.zip http://github.com/zoul/Finch/zipball/master/
+http://github.com/zoul//zipball/master/
