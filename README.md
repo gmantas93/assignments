@@ -19,4 +19,4 @@ ___
 
 **January, 2017**
 
-http://github.com/gmantas93/assignments
+assignments/Python_Assignment_Github_version.ipynb
