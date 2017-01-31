@@ -2,19 +2,15 @@
 This repository is for the Applied Economics Analysis 1 course 
 ___
 
-##[Canon Assignment: Public Policy and Gender Wage Gap](https://github.com/gmantas93/assignments/blob/master/Canon.md)
+## [Python Assignment](https://github.com/gmantas93/assignments/blob/master/Python_Assignment_Github_version.ipynb)
 
-###Group Members/ ANR numbers
+### Group Members/ ANR numbers
 ___
-**Marco Alessandrini 440893**
+**Aravanis Spyridon/ 356138**
 
-**Gloriana Madrigal Gutiérrez 602194**
+**Ellinas Georgios/ 370257**
 
-**Georgios Mantas 245448**
-
-**Utsav Saksena 629797**
-
-**Jocelyne Mwana Isha Nasibu 676027**
+**Georgios Mantas/ 245448**
 ___
 
 **Tilburg University**
