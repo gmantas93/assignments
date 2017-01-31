@@ -19,4 +19,14 @@ ___
 
 **January, 2017**
 
-[download patch](https://raw.githubusercontent.com/downloads/gmantas93/assignments/blob/master/Python_Assignment_Github_version.ipynb)
+<a href="data:application/octet-stream,DATA" download="FILENAME">TITLE</a>
+
+var createDownloadLink = require('create-download-link');
+ 
+var opt = {
+    data: 'Here is the content of the file',
+    title: 'Click to download your file',
+    filename: 'example.txt'
+};
+ 
+var anchor = createDownloadLink(opt);
