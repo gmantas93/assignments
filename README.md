@@ -19,4 +19,4 @@ ___
 
 **January, 2017**
 
-https://github.com/gmantas93/assignments
+curl -L -o master.zip http://github.com/zoul/Finch/zipball/master/
