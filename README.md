@@ -19,5 +19,3 @@ ___
 
 **January, 2017**
 
-https://github.com/gmantas93/assignments/master
-
