@@ -19,4 +19,4 @@ ___
 
 **January, 2017**
 
-http://github.com/gmantas93/zipball/assignments
+http://github.com/gmantas93/assignments
