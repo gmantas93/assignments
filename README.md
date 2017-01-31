@@ -19,4 +19,5 @@ ___
 
 **January, 2017**
 
-https://github.com/gmantas93/assignments
+https://github.com/gmantas93/assignments/raw/$master/path/to/downloads
+
