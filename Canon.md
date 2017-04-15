@@ -1,4 +1,4 @@
-###1. Introduction
+### 1. Introduction
 ___
 Over the last years, women have increasingly managed to both, enter in traditional male occupations[1] and increase their participation in the labor force. As a result, the gender pay gap has diminished significantly, especially during 1985 – 2000 period (Blau and Kahn, 2000). However, efforts still need to be carried out to achieve wage equity. Figure 1 shows the ratio of women to men’s earnings in the United States for the 1990-2015 period. During the 1990’s significant progress was done in narrowing the wage differences, however, the rate of convergence towards equal pay has slowed down during the last ten years and its narrowing is not likely to continue in the future[2].
 
@@ -16,7 +16,7 @@ The differences in wages between men and women lead to undesired outcomes. These
 
 The economic literature has not defined a specific cause for the gender wage gap, however, in this paper we will focus on two of them: occupational segregation and direct gender discrimination. After discussing the implications of these two factors, we analyze public policy tools (specially the use of quotas) as a mechanism to reduce the gender wage gap.  
 
-###2. Gender Wage Gap and Occupational Segregation
+### 2. Gender Wage Gap and Occupational Segregation
 ___
 
 Occupational or employment segregation[3] is an expression for the gendered division of labor in paid employment, where men and women are channeled into different types of occupational roles and tasks (Hegewisch and Hartmann, 2014). A careful analysis of the occupational segregation and gender earnings ratio shows that these two variables have an inverse correlation (Figure 2). The Index of occupational segregation is calculated using the methodology proposed by Duncan and Duncan (1955), where a value of 1 implies that the occupation is completely segregated. Hence, as the Index of Occupational Segregation diminishes and approaches zero (the labour market becomes more occupationally integrated), the relative earnings of women with respect to their male counterparts increase.
@@ -70,7 +70,7 @@ ___
 _Source: Pew Research Center (2013)_
 
 
-###3.	Direct Gender Discrimination
+### 3.	Direct Gender Discrimination
 ___
 
 The second cause for the gender wage gap that we are going to discuss is direct gender discrimination in the labor market. 
@@ -98,7 +98,7 @@ Linking the two causes that we address in this paper, O’Neill and O’Neill (2
 So, is discrimination an optimal decision from the companies’ point of view? According to Noland et al. (2016), the inclusion of women in higher positions increases the firm’s performance and skill base, giving room for further growth. Moreover, Weber and Zulehner (2009) carried out an analysis of startups survival rates based on the share of female employees. Their results show that firms that discriminate (have a lower percentage of women in their workforce compared to the industry average), tend to have lower survival rates. It is hard, if not impossible, to find an objective reason that would justify that women are kept out of certain occupations, especially those that have the higher wages. Furthermore, from a theoretical point of view it is not possible to justify the differences in wages.
 
 
-###4. Gender Wage Gap Reduction-Public Policy
+### 4. Gender Wage Gap Reduction-Public Policy
 ___
 The introduction of public policies is a possible solution to the gender-based discrimination in the labor market. Some proponents state that the use of comparable worth policies should be a good start. Comparable worth implies that people doing equivalent jobs (have the same requirements, responsibilities, and attributes) should receive the same wage (Levine, 2004). Although in theory it is a good idea, the implementation and assumptions behind are hard and unpractical. Another way to improve the earnings of female-dominated jobs is through a (higher) minimum wage to be imposed in female-dominated jobs. As in the case of the comparable worth, it is unlikely that a policy proposal that involves a specific minimum wage to certain occupations based on segregation will be approved by the policy makers. More adequate policies include better parental leave policies[4], paid sick days for women and the introduction of seminars for employers as a way to show them the real value of women’s work (Hegewisch and Hartmann, 2014 and Education International, 2005).
 
@@ -106,7 +106,7 @@ As mentioned before, it might be hard to implement an effective national wide po
 
 Moreover, the White House Equal Pay Pledge (2009), announced and signed by the President Obama administration (now a law), forces the employers of the private sector companies to commit to guarantee an equal pay for their employees. It has been signed and adopted by many big companies such as Facebook, American Airlines, General Motors and Apple.
 
-###4.1 Quotas as Policy Tool
+### 4.1 Quotas as Policy Tool
 ___
 A quota is a fixed number or percentage of minority group members needed to meet the requirements of affirmative action. In the context of gender inequality in the labor markets, it simply implies that a fixed percentage of job-positions being reserved for women.
 
@@ -132,13 +132,13 @@ While quotas do not have any immediate consequences in the form of equalizing ou
 
 2) Corporate board leadership -  The idea of having quotas for women in the corporate workplace is relatively novel, especially when compared to the political sphere. Nevertheless, there does exist substantial amount of literature on quotas that have been implemented in corporate boards across countries. Norway, Spain and Germany are examples of countries that have successfully added mandates for gender based quotas. Responses have been overwhelmingly positive as far as participation is concerned. This leads to conclude that there is no _unwillingness_ on the part of women to work in positions of leadership. Moreover, it has been shown that there are no adverse effects of having women as decision makers in corporate organizations. On the contrary, the evidence seems to suggest that it actually leads to better short-term outcomes for workers (Ford and Pande 2011).
 
-###5. Conclusion
+### 5. Conclusion
 ___
 Even though women have made huge gains in their educational attainment and have massively joined the workforce over the last several decades, they are still paid less than men. There is good evidence that discrimination contributes to the persistent pay disparity between men and women.
 
 From the above presentation, it is profound that approaching an equal pay between both genders will benefit the society. In particular, Costa and Silva (2008) constructed an economic model which predicts that by diminishing gender wage gap and increasing participation of women in the labor market will have positive effects in the whole economy. The authors mentioned improved economic growth, alleviation of poverty, reduction of inequality and various beneficial results for both genders regardless their age as possible spillovers from a more equal labor market (Education International, 2005). Furthermore, studies have shown that even if occupational integration has been achieved in certain occupations, there is still much to be done, particularly in low-paying occupations where the gap in wages is still persistent (Goldin, 2014). The analysis has proved that this persistent discrimination is irrational, because gender equality achieves higher profits and better work environments. Finally, considering the perspectives about the gender gap, it can be said that there are still plenty of issues that require policy implementation and investigation in order to ameliorate further the working conditions of women.
 ___
-###Footnotes
+### Footnotes
 
 [1]: Blau F. and Kahn L. pp. 79
 
@@ -149,7 +149,7 @@ ___
 [4]: Education International. pp. 6
 ___
 
-###6. References
+### 6. References
 ___
 
 * **Arneson, Richard.** Equality of Opportunity. The Stanford Encyclopedia of Philosophy (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/equal-opportunity/>.
