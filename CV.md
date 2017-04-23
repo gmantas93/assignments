@@ -3,7 +3,7 @@ Georgios Mantas CV
 ====================
 _Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, The Netherlands, phone number: +31 0614528640, email:gmantas93@gmail.com_
 ---------------------
-####EDUCATION
+#### EDUCATION
 ___
 08/2016 – present **Tilburg University**, Tilburg, Netherlands
 
@@ -11,17 +11,19 @@ ___
 
   * MSc candidate in Economics
   * Concentration: Public Policy
+  * Running Grade: 7.63/10
 
 09/2011 – 06/2015 **Athens University of Economics and Business (AUEB)**, Athens, Greece
 
 * BSc in Economics (4-year degree; 240 ECTS)
+
   * Grade: 8.56/10 “Excellent”
   * Concentration: Business Economics and Finance
   * “Jean Monnet” Seminar on the Monetary Policy of the Eurozone
 
 06/2011 6th High School of Egaleo Graduation, Athens, Greece (Grade: 19.1/20 “Distinction”)
 
-####PROFESSIONAL & RESEARCH EXPERIENCE
+#### PROFESSIONAL & RESEARCH EXPERIENCE
 ___
 04/2014 – 06/2014 **Undergraduate Research Assistant**, Research Center, AUEB, Greece
 * Processing of bibliography in the area of political economy
@@ -39,25 +41,25 @@ economy of capitalism”_ (supervisor Associate Professor Ms. Andriana Vlachou)
 * Assistance to high school students on the subjects of “Principles of Economic Theory” and “Principles of Business Administration”
 * Providing counseling services for the nation – wide examinations that determine the entrance in Greek universities
 
-####HONORS & AWARDS
+#### HONORS & AWARDS
 ___
 **Scholarship**, EFG Eurobank, December 2011, Scholarship for the highest grade in 6th High School of Egaleo that achieved at the nation-wide examinations.
 
-####SKILLS
+#### SKILLS
 ___
 * Programming:    Matlab 
 * Software:       SPSS, Eviews, Stata
 
-####TEST SCORES
+#### TEST SCORES
 ___
 * GRE: Quantitative (161/170), Verbal (148/170)
 * IELTS: 7.5 /9
 
-####LANGUAGES
+#### LANGUAGES
 ___
 * **English** (fluent), **Greek** (native)
 
-####INTERESTS & HOBBIES 
+#### INTERESTS & HOBBIES 
 ___
 * Collection and restoration of old / retro objects
 * Reading literature 
