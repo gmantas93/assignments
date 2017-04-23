@@ -1,9 +1,11 @@
 <img src="https://github.com/gmantas93/assignments/blob/master/mantas.jpg" width="150" height="180" />
 
-Georgios Mantas CV
+Georgios Mantas 
+
+Curriculum Vitae
 ====================
 
-_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, The Netherlands, phone number: +31 0614528640, email:gmantas93@gmail.com_
+_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, The Netherlands, phone number: +31 0614528640, e-mail:gmantas93@gmail.com, Linkedin: Georgios (Akis) Mantas_
 
 ---------------------
 
