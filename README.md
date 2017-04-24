@@ -9,7 +9,7 @@ ___
 [Canon Essay Presentation](https://github.com/gmantas93/assignments/blob/master/Canon-Presentation_Applied%20Economic%20Analysis.pdf)-> The presentation slides are usefull becuase they serve as a summary of the whole canon essay.
 
 ### Paper Replication with _Python_ and _LaTeX_
-___
+
 ## [Python Assignment_Jupyter version](https://github.com/gmantas93/assignments/blob/master/Python_Assignment_Jupyter_version.ipynb)
 
 ## [Python Assignment_GitHub version](https://github.com/gmantas93/assignments/blob/master/Python_Assignment_Github_version.ipynb)
