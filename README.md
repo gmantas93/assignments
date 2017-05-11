@@ -35,9 +35,9 @@ ___
 ___
 ### Thesis Proposals
 
-First Thesis Proposal
+1) ["Monetary Policy of ECB and Implications On Inequality"](https://github.com/gmantas93/assignments/blob/master/First%20Thesis%20Proposal_G.Mantas.pdf)
 
-Second Thesis Proposal
+2) []()
 ___
 With kind regards,
 
