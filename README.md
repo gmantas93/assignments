@@ -1,5 +1,5 @@
-# Interesting Empirical Projects and Essays
-This repository contains a few empirical projects and essays that I wrote during my studies as Master's in Economics student at Tilburg University. It has to be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics.
+# Interesting Empirical Projects, Essays and Thesis Proposals
+This repository contains a few empirical projects, essays and thesis proposals that I wrote during my studies as Master's in Economics student at Tilburg University. It has to be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics; and the two thesis proposal of mine.
 
 ## Applied Economics Analysis 1
 ___
@@ -32,11 +32,16 @@ ___
 [Policy Brief Project Presentation](https://github.com/gmantas93/assignments/blob/master/policy-brief-ppt-version-3.pdf)
 ___
 ### [Generational Economics _Seminar_; Dutch Pension System Essay](https://github.com/gmantas93/assignments/blob/master/Georgios%20Mantas_Essay_Netherlands-case.pdf)
+___
+### Thesis Proposals
 
+First Thesis Proposal
+
+Second Thesis Proposal
 ___
 With kind regards,
 
-**Georgios Mantas**, _MSc. in Economics_
+**Georgios Mantas**, _MSc. in Economics Candidate_
 
 **Tilburg University**
 
