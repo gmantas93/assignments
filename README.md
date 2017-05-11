@@ -37,7 +37,7 @@ ___
 
 1) ["Monetary Policy of ECB and Implications On Inequality"](https://github.com/gmantas93/assignments/blob/master/First%20Thesis%20Proposal_G.Mantas.pdf)
 
-2) ["Returns to skill1 and complex cognitive tasks around the world: Evidence from selected OECD countries"]()
+2) ["Returns to skill1 and complex cognitive tasks around the world: Evidence from selected OECD countries"](https://github.com/gmantas93/assignments/blob/master/Second%20Thesis%20Proposal_G.Mantas.pdf)
 ___
 With kind regards,
 
