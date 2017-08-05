@@ -42,7 +42,7 @@ ___
 
 ### Master Thesis 
 
-[Returns to Skills and Tasks: Evidence from 22 Selected Countries](https://github.com/gmantas93/assignments/blob/master/Master%20Thesis_Georgios%20Mantas.pdf)
+## ["Returns to Skills and Tasks: Evidence from 22 Selected Countries"](https://github.com/gmantas93/assignments/blob/master/Master%20Thesis_Georgios%20Mantas.pdf)
 
 [MSc Thesis Presentation](https://github.com/gmantas93/assignments/blob/master/MSc%20Thesis_G.Mantas_Presentation.pdf)
 ___
