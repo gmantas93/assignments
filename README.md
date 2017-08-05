@@ -37,11 +37,19 @@ ___
 
 1) ["Monetary Policy of ECB and Implications On Inequality"](https://github.com/gmantas93/assignments/blob/master/First%20Thesis%20Proposal_G.Mantas.pdf)
 
-2) ["Returns to skill1 and complex cognitive tasks around the world: Evidence from selected OECD countries"](https://github.com/gmantas93/assignments/blob/master/Second%20Thesis%20Proposal_G.Mantas.pdf)
+2) ["Returns to skill and complex cognitive tasks around the world: Evidence from selected OECD countries"](https://github.com/gmantas93/assignments/blob/master/Second%20Thesis%20Proposal_G.Mantas.pdf)
 ___
+
+### Master Thesis 
+
+[Returns to Skills and Tasks: Evidence from 22 Selected Countries](https://github.com/gmantas93/assignments/blob/master/Master%20Thesis_Georgios%20Mantas.pdf)
+
+[MSc Thesis Presentation](https://github.com/gmantas93/assignments/blob/master/MSc%20Thesis_G.Mantas_Presentation.pdf)
+___
+
 With kind regards,
 
-**Georgios Mantas**, _MSc. in Economics Candidate_
+**Georgios Mantas**, _MSc. in Economics_
 
 **Tilburg University**
 
