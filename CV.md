@@ -1,9 +1,9 @@
 <img src="https://github.com/gmantas93/assignments/blob/master/mantas.jpg" width="150" height="180" />
 
-Georgios Mantas-Curriculum Vitae
+Georgios Mantas-CV
 ====================
 
-_Personal details: Thivon Avenue 354, 12241 Egaleo, Attica, Greece; **Phone number:** +30 6989455135; **E-mail:** gmantas93@gmail.com; **Linkedin:** Georgios (Akis) Mantas_
+**Address:** Thivon Avenue 354, 12241 Egaleo, Attica, Greece; **Phone number:** +30 6989455135; **E-mail:** gmantas93@gmail.com; **Linkedin:** Georgios (Akis) Mantas
 
 ---------------------
 
