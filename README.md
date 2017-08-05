@@ -1,5 +1,5 @@
 # Interesting Empirical Projects, Essays and Master Thesis
-This repository contains a few empirical projects, essays and thesis proposals that I wrote during my studies as Master's in Economics student at Tilburg University. It should be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics; two thesis proposal and my Master Thesis based on my second proposal.
+This repository contains a few empirical projects, essays and thesis proposals that I wrote during my studies as Master's in Economics student at Tilburg University. It should be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics; two thesis proposals and my official Master Thesis based on my second proposal.
 
 ## Applied Economics Analysis 1
 ___
