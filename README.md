@@ -50,7 +50,3 @@ ___
 With kind regards,
 
 **Georgios Mantas**, _MSc. in Economics_
-
-**Tilburg University**
-
-
