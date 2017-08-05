@@ -3,19 +3,21 @@
 Georgios Mantas-Curriculum Vitae
 ====================
 
-_Personal details: Hart van Brabantlaan, Talent Square, 5038 LZ, Tilburg, The Netherlands, phone number: +31 0614528640, e-mail:gmantas93@gmail.com, Linkedin: Georgios (Akis) Mantas_
+_Personal details: Thivon Avenue 354, 12241 Egaleo, Attica, Greece; **Phone number:** +30 6989455135; **E-mail:** gmantas93@gmail.com; **Linkedin:** Georgios (Akis) Mantas_
 
 ---------------------
 
 #### EDUCATION
 ___
-08/2016 – present **Tilburg University**, Tilburg, Netherlands
+08/2016 – 07/2017 **Tilburg University**, Tilburg, Netherlands
 
-* Msc in Economics (1-year degree; 60 ECTS)
+* MSc in Economics (1-year degree; 60 ECTS)
 
-  * MSc candidate in Economics
-  * Concentration: Public Policy
-  * Running Grade: 7.63/10
+   * Grade: 8/10 “Distinction”
+   * Concentration: Public Policy
+   * Thesis: 8/10
+   * Supervisors: dr. L.B.D. Raes & dr. B.A. Vollaard (second reader)
+   * Thesis Title: _“Returns to Skills and Tasks: Evidence from 22 Selected Countries”_
 
 09/2011 – 06/2015 **Athens University of Economics and Business (AUEB)**, Athens, Greece
 
@@ -33,7 +35,7 @@ ___
 * Processing of bibliography in the area of political economy
 * Provision of assistance in handbook writing with emphasis on History of Economic Thought
 * Project’s Title: _“Research in the environmental economics and natural resources and the political
-economy of capitalism”_ (supervisor Associate Professor Ms. Andriana Vlachou)
+economy of capitalism”_ (Supervisor: dr. Andriana Vlachou, Associate Professor)
 
 03/2013 – 05/2013 **Part-time Administrative Assistant, Mouratos-Zaimakis G.P.**, secondary education tutorial center, Greece
 * Answer telephone calls, take messages, or transfer calls to staff
@@ -68,5 +70,5 @@ ___
 * Collection and restoration of old / retro objects
 * Reading literature 
 * Exploit opportunities for traveling  
-* Recreational sports especially gymnastics also previous experiences from fencing, football and archery teams 
+* Recreational sports especially gymnastics and experience from fencing, football and archery teams 
 
