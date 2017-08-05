@@ -1,4 +1,4 @@
-# Interesting Empirical Projects, Essays and Thesis Proposals
+# Interesting Empirical Projects, Essays and Master Thesis
 This repository contains a few empirical projects, essays and thesis proposals that I wrote during my studies as Master's in Economics student at Tilburg University. It has to be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics; and the two thesis proposal of mine.
 
 ## Applied Economics Analysis 1
@@ -40,7 +40,7 @@ ___
 2) ["Returns to skill and complex cognitive tasks around the world: Evidence from selected OECD countries"](https://github.com/gmantas93/assignments/blob/master/Second%20Thesis%20Proposal_G.Mantas.pdf)
 ___
 
-### Master Thesis 
+### Master Thesis (based on 2nd proposal)
 
 ## ["Returns to Skills and Tasks: Evidence from 22 Selected Countries"](https://github.com/gmantas93/assignments/blob/master/Master%20Thesis_Georgios%20Mantas.pdf)
 
