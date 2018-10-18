@@ -31,19 +31,27 @@ ___
 
 #### PROFESSIONAL & RESEARCH EXPERIENCE
 ___
+11/2017 – 11/2018 **Seaman (Administrator)/ Assistant Cashier of Special Administrations Fund**, Hellenic Navy, “Skaramagas” Naval Fortress/ “Kanelopoulos” Naval Base, Greece
+
+_Compulsory one-year military service_
+
+* Gather data for the monetary reserves
+* Preparation of public tenders
+* Monitor the expenses of each military service within the boundaries of “Skaramagas” Naval Fortress
+* Create reports for both the Head Cashier and the Commander of “Kanellopoulos” Naval Base
+
 04/2014 – 06/2014 **Undergraduate Research Assistant**, Research Center, AUEB, Greece
-* Processing of bibliography in the area of political economy
+* Processing of bibliography in the area of Political Economy
 * Provision of assistance in handbook writing with emphasis on History of Economic Thought
 * Project’s Title: _“Research in the environmental economics and natural resources and the political
 economy of capitalism”_ (Supervisor: dr. Andriana Vlachou, Associate Professor)
 
-03/2013 – 05/2013 **Part-time Administrative Assistant, Mouratos-Zaimakis G.P.**, secondary education tutorial center, Greece
+03/2013 – 05/2013 **Part-time Administrative Assistant, Mouratos-Zaimakis G.P.**, Secondary Education Tutorial Center, Greece
 * Answer telephone calls, take messages, or transfer calls to staff
 * Sort and deliver incoming mail and send outgoing mail
-* Provide general information to staff, clients, or the public
 * Maintain paper or electronic documents and records
 
-09/2011 – 02/2012 **Part-time Teaching Assistant, Vafiadakis P.C.**, secondary education tutorial center, Greece
+09/2011 – 02/2012 **Part-time Teaching Assistant, Vafiadakis P.C.**, Secondary Education Tutorial Center, Greece
 * Assistance to high school students on the subjects of “Principles of Economic Theory” and “Principles of Business Administration”
 * Providing counseling services for the nation – wide examinations that determine the entrance in Greek universities
 
