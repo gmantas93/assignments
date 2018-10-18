@@ -1,5 +1,5 @@
 # Interesting Empirical Projects, Essays and Master Thesis
-This repository contains a few empirical projects, essays and thesis proposals that I wrote during my studies as Master's in Economics student at Tilburg University. It should be mentioned that a few projects have been written in collaboration with other colleagues of my Master's program. If you are interested, please find attached the aforementioned assignments for the courses of: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics; two thesis proposals and my official Master Thesis based on my second proposal.
+This repository contains a few empirical projects and essays that I wrote during my studies as Master's student in Economics at Tilburg University. It should be mentioned that a few projects have been written in collaboration with other colleagues. If you are interested, please find attached a few indicative assignments for the following courses: Applied Economic Analysis 1, Health Economics, Labor Economics, Economics and Psychology of Social Norms and Strategic Behavior and Generational Economics. In addition, you can find two thesis proposals and my official Master Thesis based on my second proposal.
 
 ## Applied Economics Analysis 1
 ___
@@ -14,7 +14,7 @@ ___
 
 ## [Python Assignment_GitHub version](https://github.com/gmantas93/assignments/blob/master/Python_Assignment_Github_version.ipynb)
 
-_Explanatory Notes: The rar.file that is included in both versions (Jupyter & Github) contains: 1) our reference paper, 2)our assignment in a pdf form which is created through LaTeX, 3) corresponding LaTeX code for the pfd form (word.file) and 4) the dataset for the graphs in an Excel form._
+_Explanatory Notes: The rar.file that is included in both versions (Jupyter & Github) contains: 1) our reference paper, 2) our assignment in a pdf form which is created through LaTeX, 3) corresponding LaTeX code for the pfd form (word.file) and 4) the dataset for the graphs in an Excel form._
 
 Additional note: It was not necessary to insert the data from the Excel.file because we re-created them with Python code.
 ___
