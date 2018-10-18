@@ -3,7 +3,9 @@
 Georgios Mantas-CV
 ====================
 
-**Address:** Thivon Avenue 354, 12241 Egaleo, Attica, Greece; **Phone number:** +30 6989455135; **E-mail:** gmantas93@gmail.com; **Linkedin:** [Georgios (Akis) Mantas](https://www.linkedin.com/in/georgios-akis-mantas-bb1a9a104/)
+**Address:** Thivon Avenue 354, 12241 Egaleo, Attica, Greece; **Phone number:** +30 6989455135 
+
+**E-mail:** gmantas93@gmail.com; **Linkedin:** [Georgios (Akis) Mantas](https://www.linkedin.com/in/georgios-akis-mantas-bb1a9a104/)
 
 ---------------------
 
@@ -46,12 +48,12 @@ _Compulsory one-year military service_
 * Project’s Title: _“Research in the environmental economics and natural resources and the political
 economy of capitalism”_ (Supervisor: dr. Andriana Vlachou, Associate Professor)
 
-03/2013 – 05/2013 **Part-time Administrative Assistant, Mouratos-Zaimakis G.P.**, Secondary Education Tutorial Center, Greece
+03/2013 – 05/2013 **Administrative Assistant, Mouratos-Zaimakis G.P.**, Secondary Education Tutorial Center, Greece
 * Answer telephone calls, take messages, or transfer calls to staff
 * Sort and deliver incoming mail and send outgoing mail
 * Maintain paper or electronic documents and records
 
-09/2011 – 02/2012 **Part-time Teaching Assistant, Vafiadakis P.C.**, Secondary Education Tutorial Center, Greece
+09/2011 – 02/2012 **Teaching Assistant, Vafiadakis P.C.**, Secondary Education Tutorial Center, Greece
 * Assistance to high school students on the subjects of “Principles of Economic Theory” and “Principles of Business Administration”
 * Providing counseling services for the nation – wide examinations that determine the entrance in Greek universities
 
